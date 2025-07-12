@@ -2,6 +2,12 @@
 
 This is a web project that uses the Gemini AI API to answer user questions about different games.
 
+# Feature
+
+<p align="center">
+   <img alt="Layout" src="assets/image.png" width="80%">
+</p>   
+
 ## Features
 
 - Ask questions related to specific games
