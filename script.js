@@ -96,3 +96,4 @@ const enviarFormulario = async (event) => {
 }
 
 form.addEventListener('submit', enviarFormulario)
+
