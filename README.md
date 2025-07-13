@@ -20,6 +20,13 @@ This is a web project that uses the Gemini AI API to answer user questions about
 3. Ask a question
 4. See the AI response in markdown format
 
+<p align="">
+  <a href="https://ana-alves-santos.github.io/nlw-agents/"target="_blank">
+   testing
+  </a>
+</p>
+
+
 > Make sure you have a valid API Key from: https://aistudio.google.com/app/apikey
 
 ## Technologies
